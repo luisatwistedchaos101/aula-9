@@ -12,4 +12,10 @@ formulario.onsubmit = (event) => {
   const peso = parseFloat(document.querySelector("#peso").value);
 
   // Faça condicionais verificando os dados fornecidos
+
+  // Verificar se os dados inseridos são válidos
+
+  // Se está abaixo do peso
+  // Se está com o peso ideal
+  // Se está acima do peso
 };
